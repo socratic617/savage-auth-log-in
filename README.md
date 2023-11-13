@@ -1,12 +1,10 @@
-## Installation
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+1. Create Sign up
+2. Login In
+3. Contribute to Message board
+4. Uplike or Dislike Post
+5. Delete your post if not satisfied with message
+7. Enjoy! #21 21 21
 
 ## Credit
 
